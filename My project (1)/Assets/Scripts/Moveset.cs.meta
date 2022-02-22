@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 887f46b4a4f8d41dd9e2238872c78ea9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myScript: {instanceID: 0}
+  - PickUp: {fileID: 1963067150298497812, guid: d4bbf10833e114958b76bfc0348465ec, type: 3}
+  - Player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
